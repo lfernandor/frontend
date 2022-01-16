@@ -5,7 +5,7 @@ function Cursos() {
     return (
       <div>
         <br/>
-        <h1 class="center">Cursos</h1>                
+        <h1 className="center">Cursos</h1>                
       </div>             
     )    
   }

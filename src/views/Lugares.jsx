@@ -34,9 +34,9 @@ class Lugares extends Component {
     return (     
       
       <div className="app container">      
-        <div class="center"> 
+        <div className="center"> 
         <br/>       
-          <h1 class="center">Lugares</h1>    
+          <h1 className="center">Lugares</h1>    
 
           <p className="lead text-center">Buscar</p>
 

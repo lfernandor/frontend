@@ -7,10 +7,10 @@ function Senderismo() {
         <br/>
         <br/>
              
-        <h3 class="center2">-SENDERISMO-</h3> 
+        <h3 className="center2">-SENDERISMO-</h3> 
         <br/>
         
-        <h4 class="center3">Senderismo es sinónimo de excursionismo a pie, Es decir, caminatas que se realizan principalmente por senderos y caminos. 
+        <h4 className="center3">Senderismo es sinónimo de excursionismo a pie, Es decir, caminatas que se realizan principalmente por senderos y caminos. 
         El grado de dificultad no suele ser alto.  
         Es una mezcla de actividad deportiva y turística, que se desarrolla principalmente en entornos naturales.
 
@@ -21,7 +21,7 @@ function Senderismo() {
                 
           <br/>
           <br/>
-        <img class="center4" src={imagenes.img8}/>
+        <img className="center4" src={imagenes.img8} alt=""/>
         <br/>
         <br/>
         <br/>

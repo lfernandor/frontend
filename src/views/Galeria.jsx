@@ -7,7 +7,7 @@ function Galeria() {
          <div>
          <br/>
          
-        <h1 class="center">Galeria</h1>  
+        <h1 className="center">Galeria</h1>  
         <br/>  
         <Carousel/>            
       </div>

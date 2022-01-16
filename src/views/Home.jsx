@@ -9,12 +9,12 @@ function Home() {
     <div>
           <br/>
                    
-          <h1 class="center">Home</h1>   
+          <h1 className="center">Home</h1>   
           <br/>                 
-          <img class="center" src={imagenes.img10}/>
+          <img className="image" src={imagenes.img10} alt=""/>
           <br/>
           <hr />
-            <h1 class="center" >Actividades</h1>
+            <h1 className="center" >Actividades</h1>
             <br/>
             <NavbarContainer>
               <NavbarWrapper>

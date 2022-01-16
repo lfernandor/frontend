@@ -6,7 +6,7 @@ function Excursiones() {
     return (
       <div>   
         <br/>     
-        <h1 class="center">Excursiones</h1> 
+        <h1 className="center">Excursiones</h1> 
         <Destinos/> 
       </div>
     );

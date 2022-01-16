@@ -62,7 +62,7 @@ function App() {
     }
   
     return (
-      <div class="form">
+      <div className="form">
         <h2 > Registrar Destino </h2>
         <form onSubmit={procesar}>
         <h3>

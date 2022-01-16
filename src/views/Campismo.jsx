@@ -6,9 +6,9 @@ function Campismo() {
       <div>  
         <br/>
           <br/>      
-        <h3 class="center2">-CAMPISMO-</h3> 
+        <h3 className="center2">-CAMPISMO-</h3> 
           <br/>
-          <h4 class="center3">
+          <h4 className="center3">
           Es el arte de acampar, es decir, permanecer en el medio natural durante al menos una noche, independientemente de los medios con que se realice.
 
           Un buen campista es quien a la vez de sentir deleite por estar en contacto con la naturaleza, sabe cómo acampar.
@@ -23,7 +23,7 @@ function Campismo() {
           </h4> 
           <br/>
           <br/>
-        <img class="center4" src={imagenes.img1}/>
+        <img className="center4" src={imagenes.img1} alt=""/>
         <br/>
           <br/>
           <br/>

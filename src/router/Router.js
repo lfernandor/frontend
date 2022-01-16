@@ -6,8 +6,7 @@ import Excursiones from "../views/Excursiones";
 import Cursos from "../views/Cursos";
 import Lugares from "../views/Lugares";
 import Galeria from "../views/Galeria";
-import imagenes from "../assets/imagenes";
-import Navbar1 from "../componentes/Navbar";
+
 
 function Routers() {
     

@@ -32,7 +32,7 @@ const MenuActividades = () => {
 
 function Navbar() {
     return (
-      <nav class="center">
+      <nav className="center">
         <NavLink activeClassName="active" to="/src/views/Senderismo.jsx">
             SENDERISMO
         </NavLink>
@@ -63,13 +63,3 @@ function Navbar() {
 
 export default MenuActividades;
 
-/*{
-    <NavLink exact to="/src/views/Senderismo.jsx" activeClassName="active">Senderismo</NavLink>
-                <NavLink exact to="/src/views/Escalada.jsx" activeClassName="active">Escalada</NavLink>
-                <NavLink exact to="/src/views/Rappel.jsx" activeClassName="active">Rappel</NavLink> 
-                <NavLink exact to="/src/views/Campismo.jsx" activeClassName="active">Campismo</NavLink>
-                <NavLink exact to="/src/views/Tirolesa.jsx" activeClassName="active">Tirolesa</NavLink>
-                <NavLink exact to="/src/views/Ciclismo.jsx" activeClassName="active">Ciclismo</NavLink> 
-                <NavLink exact to="/src/views/Canonismo.jsx" activeClassName="active">Cañonismo</NavLink>        
-                <NavLink exact to="/src/views/Kayak.jsx" activeClassName="active">Kayak</NavLink>       
-}*/

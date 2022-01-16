@@ -14,7 +14,7 @@ const Imagen = (props) => {
                     <p className="card-text">{views} Vistas </p>  
 
                     <a href={largeImagenURL} target="_blank" rel="noopener noreferrer" className="btn btn-primary
-                    btn-block" rel="noreferrer">Ver Imagen</a>                     
+                    btn-block" >Ver Imagen</a>                     
                 </div>                
             </div>
         </div>   
